@@ -1,6 +1,6 @@
 { 
-    "Name";"Schema",
-    "field";[
+    "Name":"Schema",
+    "field":[
 	{
         "name":"HDI_rank",
         "type":"integer",
